@@ -103,6 +103,7 @@
         color: #fff;
         text-decoration: none;
         border-radius: 5px;
+        width: 70px;
     }
     
     .cta-button:hover {
